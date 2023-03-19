@@ -1,16 +1,13 @@
-### Hi there 👋
+# CV
+Soy una persona con muchas ganas de aprender desarrollo web para poderlo aplicar laboralmente y sobre todo disfrutar de ello
 
-<!--
-**snayder1900/snayder1900** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Comandos basico de terminal
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Nombre del comando | Descripcion |
+|-------------------:|-------------|
+|         ls         | Lista los directorios y archivos en la ruta donde estemos ubicados            |
+|         pwd        |             | 
+|         cd         |             |
+|         mkdir      | Lista los directorios y archivos en la ruta donde estemos ubicados            |
+|         touch      | Lista los directorios y archivos en la ruta donde estemos ubicados            |
